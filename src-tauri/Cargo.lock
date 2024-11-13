@@ -1573,7 +1573,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "jiyixia-image"
+name = "jiyixia-ts"
 version = "0.1.0"
 dependencies = [
  "serde",

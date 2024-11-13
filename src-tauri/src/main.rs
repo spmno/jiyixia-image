@@ -2,5 +2,5 @@
 #![cfg_attr(not(debug_assertions), windows_subsystem = "windows")]
 
 fn main() {
-    jiyixia_image_lib::run()
+    jiyixia_ts_lib::run()
 }
