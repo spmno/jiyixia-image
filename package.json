@@ -1,5 +1,5 @@
 {
-  "name": "jiyixia-ts",
+  "name": "jiyixia-image",
   "private": true,
   "version": "0.1.0",
   "type": "module",
@@ -11,8 +11,12 @@
   },
   "dependencies": {
     "@tauri-apps/api": "^2",
+    "@tauri-apps/plugin-fs": "~2",
     "@tauri-apps/plugin-shell": "^2",
-    "cropperjs": "2.0.0-rc.2"
+    "autoprefixer": "^10.4.20",
+    "cropperjs": "2.0.0-rc.2",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.14"
   },
   "devDependencies": {
     "@tauri-apps/cli": "^2",
